@@ -1,51 +1,30 @@
-<!-- social media connecting shield -->
+### Redux Shopping Cart Application
 
-[![Facebook][facebook-shield]][facebook-url]
-[![Instagram][instagram-shield]][instagram-url]
-[![Twitter][twitter-shield]][twitter-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![Github][github-shield]][github-url]
+**Live Demo:** [https://your-deployment-link.com](https://mukul-react-redux-shopping-cart.netlify.app)  
 
-# React Redux Shopping Cart System
+A fully functional ecommerce shopping cart implementation using React and Redux for state management. Users can browse products, add items to their cart, review selections, and complete purchases.
 
-<!-- project directory & live preview link -->
+## Key Features
+- 🛍️ **Product Catalog** - Browse tech products with detailed descriptions
+- 🛒 **Cart Management** - Add/remove items with real-time updates
+- 💰 **Price Calculation** - Automatic total calculation with tax
+- 🔄 **State Persistence** - Cart contents preserved using Redux store
+- 📱 **Responsive Design** - Works on mobile and desktop devices
 
-|  #  | Projects                                                                                                                     | Live Preview                                                        |
-| :-: | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| 01  | [Redux Shopping Cart)](https://github.com/SamiurRahmanMukul/React-Redux-Shopping-Cart-System/tree/main/react-redux-cart-app) | [Click Here ↗](https://mukul-react-redux-shopping-cart.netlify.app) |
+## Tech Stack
+- **Frontend**: React 17
+- **State Management**: Redux + React-Redux
+- **Routing**: React Router v5
+- **Build Tool**: Create React App
+- **Dev Tools**: Redux DevTools Extension
 
-<!-- INSTALL PROJECT PACKAGES -->
+## Screenshots
+1. **Product Listing Page**  
+   ![image](https://github.com/user-attachments/assets/bf9fdf33-1f8d-40a7-97c1-91c14b2b8aa4)
 
-## Installing Packages
+2. **Shopping Cart**  
+   ![image](https://github.com/user-attachments/assets/dda44244-50c3-4293-8157-5de1ac7acde4)
 
-```sh
-yarn add react-router-dom         // for application routing
-yarn add redux react-redux        // for state management
-```
 
-<!-- EXTENSIONS & LINTING SETUP -->
-
-## VS-Code Extensions
-
-Install the below extensions:
-
-- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
-- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-
-<!-- my social media links -->
-
-[facebook-url]: https://www.facebook.com/SamiurRahmanMukul
-[instagram-url]: https://www.instagram.com/samiur_rahman_mukul
-[twitter-url]: https://www.twitter.com/SamiurRahMukul
-[linkedin-url]: https://www.linkedin.com/in/SamiurRahmanMukul
-[github-url]: https://www.github.com/SamiurRahmanMukul
-
-<!-- shield icon links -->
-
-[facebook-shield]: https://img.shields.io/badge/-Facebook-black.svg?style=flat-square&logo=facebook&color=555&logoColor=white
-[instagram-shield]: https://img.shields.io/badge/-Instagram-black.svg?style=flat-square&logo=instagram&color=555&logoColor=white
-[twitter-shield]: https://img.shields.io/badge/-Twitter-black.svg?style=flat-square&logo=twitter&color=555&logoColor=white
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[github-shield]: https://img.shields.io/badge/-Github-black.svg?style=flat-square&logo=github&color=555&logoColor=white
-
-                      </> HAPPY PROGRAMMING & DEVELOPING 🤣 </>
+## Contributing
+Pull requests are welcome! For major changes, please open an issue first to discuss proposed changes.
